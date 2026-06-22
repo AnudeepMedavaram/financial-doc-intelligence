@@ -4,7 +4,7 @@ A production-grade RAG (Retrieval-Augmented Generation) application that enables
 
 ## Live Demo
 
-🚀 Coming Soon (Deployment in Progress).
+https://financial-doc-intelligence-ldppy2l2qndsfqoeepbgsf.streamlit.app/
 
 ---
 
