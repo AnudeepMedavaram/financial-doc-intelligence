@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+vectorstore/
+data/uploaded_docs/
+*.pkl
+.DS_Store
+.venv/
+venv/
+.streamlit/secrets.toml
+summary
+testday_*.py
