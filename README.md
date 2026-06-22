@@ -134,7 +134,7 @@ financial-doc-intelligence/
 │   └── uploaded_docs/
 ├── vectorstore/
 ├── requirements.txt
-├── .env
+├── .env.example
 └── README.md
 ```
 
